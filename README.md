@@ -1,0 +1,2 @@
+# MssqlScripts
+Helpers in mssql
